@@ -40,3 +40,5 @@ scp -r /Users/path/to/starry-sky root@192.168.1.2:/var/lib/tvweb/screensavers/
 <img src="images/MyGlassHome.png" width="45%" alt="MyGlassHome">
 <img src="images/starry-sky.png" width="45%" alt="Starry Sky">
 </p>
+
+*Starry Sky looks betten irl.
