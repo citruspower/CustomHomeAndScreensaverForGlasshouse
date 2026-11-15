@@ -1,0 +1,16 @@
+{
+  "manifest": 1,
+  "version": "1.10.0",
+  "name": {
+    "en": "Starry Sky",
+    "de": "Sternenhimmel"
+  },
+  "description": {
+    "en": "A true-black night sky full of shimmering stars, the Milky Way, the odd distant shooting star, a 24h clock drawn in stars that moves to a new spot every 10 minutes, and a slow camera pan to a brand-new sky every 30 to 40 minutes. Made for OLED.",
+    "de": "Ein tiefschwarzer Nachthimmel voller funkelnder Sterne, die Milchstraße, ab und zu eine ferne Sternschnuppe, eine 24h-Uhr aus Sternen, die alle 10 Minuten an eine andere Stelle wandert, und alle 30 bis 40 Minuten ein langsamer Kameraschwenk zu einem ganz neuen Himmel. Gemacht für OLED."
+  },
+  "license": "MIT",
+  "uses": [
+    "level"
+  ]
+}
