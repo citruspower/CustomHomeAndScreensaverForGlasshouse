@@ -29,4 +29,8 @@ To install, paste this into your terminal and change the IP adresses and paths.
 
 # Project Screenshots
 
-\<p align="center"\> \<img src="images/MyGlassHome.png" width="45%" alt="MyGlassHome"\> \<img src="images/starry-sky.png" width="45%" alt="Starry Sky"\> \</p\>
+<div align="center">
+  <img src="images/MyGlassHome.png" width="45%" alt="MyGlassHome">
+  &nbsp;
+  <img src="images/starry-sky.png" width="45%" alt="Starry Sky">
+</div>
