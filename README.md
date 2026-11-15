@@ -29,7 +29,7 @@ The weather comes from Open-Meteo, which is free and needs no account or key. On
 
 The screensaver is a true-black night sky full of shimmering stars, the Milky Way, the odd distant shooting star, a 24h clock drawn in stars that moves to a new spot every 10 minutes, and a slow camera pan to a brand-new sky every 30 to 40 minutes. Made for OLED.
 
-To install, paste this into your terminal and change the IP adresses and paths.
+To install, paste this into your terminal and change the IP adress and path.
 
 scp -r /Users/path/to/starry-sky root@192.168.1.2:/var/lib/tvweb/screensavers/
 
